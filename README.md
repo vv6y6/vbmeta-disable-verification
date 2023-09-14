@@ -1,5 +1,5 @@
-# vbmeta-disable-verification
-
+#+963953397009
+vbmeta-disable-verification
 Patch Android vbmeta image and disable verification flags inside.
 
 ## Usage
